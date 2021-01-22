@@ -1,0 +1,11 @@
+#!
+
+#This script asks a question and the user respomds with an input
+
+echo "What's is your name?"
+read name
+
+echo "What is your occupation?"
+read occupation
+
+echo "Welcome" $name "you are the best" $occupation "in your field"
