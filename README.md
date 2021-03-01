@@ -1,1 +1,6 @@
-Here are a list of bash scripts(will make changes later)
+##BashScripts
+
+###BasicScripts
+  - BasicFunction
+  - Hello World
+  - BasicForLoop
