@@ -1,6 +1,6 @@
-##BashScripts
+## BashScripts
 
-###BasicScripts
+### BasicScripts
   - BasicFunction
   - Hello World
   - BasicForLoop
