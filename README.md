@@ -9,3 +9,5 @@
   - userInput
   - positionalParameter
   - passingArguments
+  - parameterCheck
+  - nestedForLoop
